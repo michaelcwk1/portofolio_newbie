@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import './index.css'; // Atur path sesuai dengan lokasi file CSS
 import Header from './components/Header';
 import About from './components/About';
 import Projects from './components/Projects';
